@@ -1,0 +1,36 @@
+{
+	"installed_packages":
+	[
+		"Base16 Color Schemes",
+		"Bootstrap 3 Snippets",
+		"Colorsublime",
+		"CSScomb",
+		"DashDoc",
+		"Emmet",
+		"Foundation 5 Snippets",
+		"Git",
+		"GitGutter",
+		"HTML Boilerplate",
+		"HTML5",
+		"JavaScript & Coffeescript Build Systems",
+		"Javascript Beautify",
+		"JavaScript Console",
+		"JavaScript Patterns",
+		"JavaScript Snippets",
+		"Liquid",
+		"mixture-liquid-syntax-sublime",
+		"Origami",
+		"Processing",
+		"Sass",
+		"SCSS",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-coffee",
+		"Theme - Soda",
+		"Theme - Spacegray",
+		"Twitter Bootstrap Snippets",
+		"W3CValidators"
+	]
+}

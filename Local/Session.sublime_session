@@ -1,0 +1,1320 @@
+{
+	"folder_history":
+	[
+		"/Users/justinzupnick/Documents/GitHub/blog",
+		"/Users/justinzupnick/Documents/GitHub/jzupnick.github.io",
+		"/Users/justinzupnick/Documents/GitHub/jzupnick.github.io/coffee",
+		"/Users/justinzupnick/Documents/GitHub/wifionrails",
+		"/Users/justinzupnick/Documents/GitHub/busk",
+		"/Users/justinzupnick/Documents/GitHub/music-player",
+		"/Users/justinzupnick/Downloads/Custom Patches for UI Design",
+		"/Users/justinzupnick/Sites/course-guide",
+		"/Users/justinzupnick/Downloads/ruby-guide",
+		"/Users/justinzupnick/Library/Application Support/Sublime Text 3/Packages",
+		"/Users/justinzupnick/Google Drive/Projects/Sites/ruby-guide",
+		"/Users/justinzupnick/Downloads/counter/Theme",
+		"/Users/justinzupnick/Downloads/smpl/theme",
+		"/Users/justinzupnick/Downloads/megsradio",
+		"/Users/justinzupnick/Downloads/grayscale",
+		"/Users/justinzupnick/Downloads/Downloads/sassaparilla-master",
+		"/Users/justinzupnick/Downloads/br-frontend-demo-master",
+		"/Users/justinzupnick/Google Drive/Inbox/recsstableinemail",
+		"/Users/justinzupnick/Google Drive/Projects/Sites/scrolling-nav",
+		"/Users/justinzupnick/Google Drive/Projects/Sites/learn-ruby",
+		"/Users/justinzupnick/Google Drive/Projects/Sites/nava-new-york-7350073",
+		"/Users/justinzupnick/Sites/nava-new-york-7350073",
+		"/Users/justinzupnick/Sites/learn-ruby"
+	],
+	"last_version": 3059,
+	"last_window_id": 149,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 752.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"heig",
+						"height-20"
+					],
+					[
+						"stroke",
+						"strokeWeight"
+					],
+					[
+						"backgr",
+						"background	background"
+					],
+					[
+						"rg",
+						"rgba()"
+					],
+					[
+						"mar",
+						"margin-left"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"backg",
+						"background-color"
+					],
+					[
+						"he",
+						"header	Tag"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"marg",
+						"margin"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"padd",
+						"padding-top"
+					],
+					[
+						"margin",
+						"margin-top"
+					]
+				]
+			},
+			"build_system": "Packages/User/Node.sublime-build",
+			"command_palette":
+			{
+				"height": 203.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"browser",
+						"File: Open In Browser - Production Server"
+					],
+					[
+						"cdn",
+						"Snippet: bs3-cdn"
+					],
+					[
+						"cdn ",
+						"Snippet: bs3-cdn"
+					],
+					[
+						"boiler",
+						"Snippet: htmlboiler"
+					],
+					[
+						"pac",
+						"Package Control: List Packages"
+					],
+					[
+						"ht",
+						"Set Syntax: HTML"
+					],
+					[
+						"boil",
+						"Snippet: htmlboiler"
+					],
+					[
+						"syn",
+						"Set Syntax: HTML"
+					],
+					[
+						"synt",
+						"Set Syntax: HTML"
+					],
+					[
+						"package con",
+						"Package Control: Remove Package"
+					],
+					[
+						"boilerplate",
+						"Snippet: Responsive Boilerplate Page Template"
+					],
+					[
+						"boilerpa",
+						"Snippet: Responsive Boilerplate Col12"
+					],
+					[
+						"boilerp",
+						"Snippet: Responsive Boilerplate Container"
+					],
+					[
+						"boile",
+						"Snippet: htmlboiler"
+					],
+					[
+						"header",
+						"Snippet: bs3-page header"
+					],
+					[
+						"bootstrap head",
+						"Snippet: Bootstrap pager with aligned links"
+					],
+					[
+						"run sk",
+						"Build: Run sketch fullscreen"
+					],
+					[
+						"run",
+						"Build: Run sketch fullscreen"
+					],
+					[
+						"proces",
+						"Set Syntax: Processing"
+					],
+					[
+						"install pa",
+						"Package Control: Install Package"
+					],
+					[
+						"install ",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"cofee",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"insta",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"scss",
+						"Set Syntax: SCSS"
+					],
+					[
+						"menu",
+						"Permute Lines: Unique"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 541.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/justinzupnick/Library/Application Support/Sublime Text 3/Packages/User/Node.sublime-build",
+				"/Users/justinzupnick/Library/Application Support/Sublime Text 3/Packages/User/JavaScript.sublime-build",
+				"/Users/justinzupnick/Library/Application Support/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+				"/Users/justinzupnick/Documents/GitHub/jzupnick.github.io/styles.css",
+				"/Users/justinzupnick/Documents/GitHub/subway-songs/Regular-HTML-Template/index.html",
+				"/Users/justinzupnick/Documents/GitHub/subway-songs/index.html",
+				"/Users/justinzupnick/Downloads/pq.csv",
+				"/Users/justinzupnick/Google Drive/Projects/Startup Institute/duckett/c02/js/example.js",
+				"/Users/justinzupnick/Google Drive/Projects/Startup Institute/duckett/c02/example.html",
+				"/Users/justinzupnick/Documents/GitHub/busk/index.html",
+				"/Users/justinzupnick/Documents/GitHub/busk/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap.scss",
+				"/Users/justinzupnick/Documents/Busk.sublime-workspace",
+				"/Users/justinzupnick/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/justinzupnick/Documents/GitHub/music-player/about.liquid",
+				"/Users/justinzupnick/Sites/course-guide/index.html",
+				"/Users/justinzupnick/Sites/course-guide/Gemfile",
+				"/Users/justinzupnick/Sites/course-guide/public/js/jquery.easing.min.js",
+				"/Users/justinzupnick/Sites/course-guide/public/css/screen.css",
+				"/Users/justinzupnick/Sites/course-guide/public/fonts/glyphicons-halflings-regular.svg",
+				"/Users/justinzupnick/Downloads/ruby-guide/index.html",
+				"/Users/justinzupnick/Downloads/ruby-guide/css/screen.scss",
+				"/Users/justinzupnick/Downloads/ruby-guide/img/logos/thumbnail-tealeaf-academy.jpg",
+				"/Users/justinzupnick/Downloads/ruby-guide/.sass-cache/10305ebeffeade5f9846880f6b546d1a77c7ac02/screen.scssc",
+				"/Users/justinzupnick/Downloads/ruby-guide/img/logos/thumbnail-treehouse.png",
+				"/Users/justinzupnick/Documents/math_functions",
+				"/Users/justinzupnick/Documents/Processing/my_first_sketch/math_functions.pde",
+				"/Users/justinzupnick/Downloads/links",
+				"/Users/justinzupnick/Google Drive/Projects/Sites/ruby-guide/css/screen.scss",
+				"/Users/justinzupnick/Google Drive/Projects/Sites/ruby-guide/index.html",
+				"/Users/justinzupnick/Downloads/counter/Theme/assets/js/soon/custom.js",
+				"/Users/justinzupnick/Downloads/counter/Theme/config.codekit",
+				"/Users/justinzupnick/Downloads/counter/Theme/assets/css/custom.css",
+				"/Users/justinzupnick/Downloads/WufooThemeKit/css/custom.css",
+				"/Users/justinzupnick/Downloads/grayscale/index.html",
+				"/Users/justinzupnick/Documents/GitHub/jzupnick.github.io/index.html",
+				"/Users/justinzupnick/Documents/GitHub/jzupnick.github.io/CNAME",
+				"/Users/justinzupnick/Google Drive/Projects/Sites/ruby-guide/css/screen.css",
+				"/Users/justinzupnick/Sites/project/assets/css/libs/_forms.scss",
+				"/Users/justinzupnick/Downloads/Downloads/sassaparilla-master/assets/css/libs/_mixins.scss",
+				"/Users/justinzupnick/Sites/project/assets/css/libs/_mixins.scss",
+				"/Users/justinzupnick/Sites/mixture.json",
+				"/Users/justinzupnick/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/Users/justinzupnick/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+				"/Users/justinzupnick/Google Drive/Inbox/recsstableinemail/Do's and Don'ts When Buying a Used Car_TESTED.html",
+				"/Users/justinzupnick/Google Drive/Inbox/recsstableinemail/Do’s and Don’ts When Buying a Used Car_UNTESTED copy.html",
+				"/Users/justinzupnick/Google Drive/Inbox/feedly.opml",
+				"/Users/justinzupnick/Google Drive/Inbox/00dcb32654fb501e022d19e22763eee5/Blog [123071906].txt",
+				"/Users/justinzupnick/Google Drive/Inbox/00dcb32654fb501e022d19e22763eee5/Portfolio [123159466].txt",
+				"/Users/justinzupnick/Google Drive/Inbox/00dcb32654fb501e022d19e22763eee5/Phase II [123002964].txt",
+				"/Users/justinzupnick/Google Drive/Inbox/00dcb32654fb501e022d19e22763eee5/Job Applications [122114300].txt",
+				"/Users/justinzupnick/Google Drive/Inbox/00dcb32654fb501e022d19e22763eee5/Personal Misc. [123159476].txt",
+				"/Users/justinzupnick/Google Drive/Inbox/00dcb32654fb501e022d19e22763eee5/ .txt",
+				"/Users/justinzupnick/Google Drive/Inbox/00dcb32654fb501e022d19e22763eee5/Inbox [121682850].txt",
+				"/Users/justinzupnick/Google Drive/Inbox/00dcb32654fb501e022d19e22763eee5/Nava [123159456].txt",
+				"/Users/justinzupnick/Google Drive/Inbox/00dcb32654fb501e022d19e22763eee5/SkilledUp [121689450].txt",
+				"/Users/justinzupnick/Google Drive/Inbox/00dcb32654fb501e022d19e22763eee5/MegsRadio [123140971].txt",
+				"/Users/justinzupnick/Google Drive/Inbox/00dcb32654fb501e022d19e22763eee5/Get A Job [123140955].txt",
+				"/Users/justinzupnick/Google Drive/Projects/Sites/ruby-guide/css/scrolling-nav.css",
+				"/Users/justinzupnick/Google Drive/Projects/Sites/ruby-guide/js/scrolling-nav.js",
+				"/Users/justinzupnick/Google Drive/Projects/SkilledUp/learn-web-design-guide/index.html",
+				"/Users/justinzupnick/Google Drive/Projects/Sites/ruby-guide/form.html",
+				"/Users/justinzupnick/Downloads/email-subscription-popup/style.css",
+				"/Users/justinzupnick/Downloads/email-subscription-popup/form.html",
+				"/Users/justinzupnick/Google Drive/Projects/Sites/ruby-guide/js/form.js",
+				"/Users/justinzupnick/Downloads/email-subscription-popup/index.html",
+				"/Users/justinzupnick/Google Drive/Projects/SkilledUp/learn-web-design-guide/CSS/Styles.less",
+				"/Users/justinzupnick/Google Drive/Projects/SkilledUp/learn-web-design-guide/CSS/Layouts.less",
+				"/Users/justinzupnick/Google Drive/Projects/SkilledUp/learn-web-design-guide/CSS/Styles.css",
+				"/Users/justinzupnick/Downloads/Complete your payment.html",
+				"/Users/justinzupnick/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+				"/Users/justinzupnick/Google Drive/Projects/Sites/ruby-guide/img/screenshots/code-school-logo.svg",
+				"/Users/justinzupnick/Google Drive/Projects/Sites/scrolling-nav/css/scrolling-nav.css",
+				"/Users/justinzupnick/Google Drive/Projects/Sites/scrolling-nav/index.html",
+				"/Users/justinzupnick/Google Drive/Projects/Sites/scrolling-nav/css/screen.scss",
+				"/Users/justinzupnick/Google Drive/Projects/Sites/scrolling-nav/scss/screen.scss",
+				"/Users/justinzupnick/Google Drive/Projects/Sites/scrolling-nav/css/screen.css",
+				"/Users/justinzupnick/Google Drive/Projects/Sites/nava-new-york-7350073/layout/theme_backup_by_magiczoomplus_2014.04.17_18.17.26.liquid",
+				"/Users/justinzupnick/Google Drive/Projects/Sites/nava-new-york-7350073/templates/product_backup_by_magiczoomplus_2014.04.17_18.17.31.liquid",
+				"/Users/justinzupnick/Google Drive/Projects/Sites/nava-new-york-7350073/layout/theme_backup_by_magiczoomplus_2014.04.17_18.14.45.liquid",
+				"/Users/justinzupnick/Google Drive/Projects/Sites/learn-ruby/index.html",
+				"/Users/justinzupnick/Google Drive/Projects/Sites/learn-ruby/sass/_refills.scss",
+				"/Users/justinzupnick/Google Drive/Projects/Sites/learn-ruby/sass/screen.scss",
+				"/Users/justinzupnick/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/justinzupnick/Sites/nava-new-york-7350073/snippets/shappify-sales-clock.liquid",
+				"/Users/justinzupnick/Sites/nava-new-york-7350073/snippets/shappify-qb-min-price.liquid",
+				"/Users/justinzupnick/Sites/nava-new-york-7350073/snippets/shappify-sales-icon-collection.liquid",
+				"/Users/justinzupnick/Sites/nava-new-york-7350073/snippets/shappify-qb-no-select.liquid",
+				"/Users/justinzupnick/Sites/nava-new-york-7350073/snippets/product-detail.liquid",
+				"/Users/justinzupnick/Sites/nava-new-york-7350073/snippets/shappify-select.liquid",
+				"/Users/justinzupnick/Sites/nava-new-york-7350073/snippets/shappify-options.liquid",
+				"/Users/justinzupnick/Desktop/learn-web-design-guide/index.html",
+				"/Users/justinzupnick/Sites/learn-ruby/sass/_refills.scss",
+				"/Users/justinzupnick/Sites/learn-ruby/sass/screen.scss"
+			],
+			"find":
+			{
+				"height": 25.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"end",
+					"blog:",
+					"jquery.js",
+					"jquery",
+					"{%",
+					"include",
+					"complete your",
+					"rel=\"stylesheet",
+					"=\"",
+					"<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\">\n",
+					"class providers",
+					"dt {",
+					"dt",
+					"about-sec",
+					".row h1",
+					"font-size",
+					"about",
+					"one month",
+					".row",
+					"course",
+					"get enlight",
+					"h1",
+					"classes",
+					"id=tools",
+					"tools",
+					"stay up",
+					"list.",
+					"list.manage",
+					"mailchimp",
+					"tapas",
+					"general",
+					".org/",
+					".com/",
+					"/",
+					"https://",
+					"http://",
+					"input",
+					"monte",
+					"28",
+					"            <div class=\"col-lg-6 col-lg-offset-3 mt centered\">\n",
+					"h4",
+					"message",
+					"counter",
+					"join the local",
+					"slider",
+					"logo",
+					"container",
+					"css",
+					".org",
+					".co",
+					".com",
+					"/",
+					"		<div class=\"colspan2-1 colspan5-3\">I get wider</div>\n",
+					"section",
+					"background",
+					"setTimeout",
+					"myModal",
+					"  \n",
+					"http://gallery.mailchimp.com/bab957ac7f6fcf949273a0ab1/images/42cfbb73-607d-4432-aed0-fa1cde337276.jp",
+					"http://gallery.mailchimp.com/bab957ac7f6fcf949273a0ab1/images/a1adc2d9-37bc-4f52-abff-4e95efec71ee.jpg",
+					"<img alt=\"\" src=\"http://gallery.mailchimp.com/bab957ac7f6fcf949273a0ab1/images/a1adc2d9-37bc-4f52-abff-4e95efec71ee.jpg\"",
+					"style=\"-ms-interpolation-mode:bicubic;text-decoration:none;outline:none;border:0;vertical-align:bottom;display:inline !important;padding-bottom:0;max-width:800px;\"",
+					"class=\"mcnimagecont",
+					"margin",
+					"{\n",
+					"padding",
+					"outline",
+					"border",
+					"margin",
+					"border",
+					"width, padding",
+					"money",
+					"provider",
+					"quote",
+					"conention",
+					"quote",
+					"codeac",
+					"h3",
+					"thoughtbot",
+					"stay up",
+					"btn",
+					"creator",
+					"matz",
+					"quote",
+					"railscasts",
+					"iframe",
+					"iframe clas",
+					"iframe",
+					"lynda",
+					"career",
+					"form",
+					"btn btn-default",
+					"author",
+					"mymodal",
+					"php",
+					"<div class=\"col-lg-2\">\n                    <img class=\"provider-logo\" src=\"\"></div>",
+					"active",
+					"brand",
+					"metafields.shappify_csp",
+					"{% if item.metafields.shappify_csp[cust_tag] %}\n",
+					"variant.price",
+					".price",
+					"price",
+					"{{ product.price | money }}",
+					"{{ product.price | money }}\n",
+					"variant",
+					"for variant",
+					"quantity",
+					"quant",
+					"price",
+					"pricel",
+					"price",
+					"pricing-table",
+					"collection",
+					"collections",
+					"shappify",
+					"<div id=\"shappify-qty-cart-msg\"></div>\n",
+					"{% include 'shappify-qb-min-price' with product %}\n",
+					"- {{ product.price | money }}\n",
+					"input",
+					"shappify",
+					"shappify-qty-msg",
+					"product.variants.size\n",
+					"shappify_qb_options_count",
+					"shappify_qb_options_count\n",
+					"shappify_qb_options_count\nshappify_qb_options_count\n",
+					"shappify_qb_options_count\n",
+					"<!-- Bold Apps: Quantity Breaks -->"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					".org/\" target=\"_blank\">",
+					".com/\" target=\"_blank\">",
+					"/\" target=\"_blank\">",
+					"<a href=\"https://",
+					"<a href=\"http://",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 204.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 0.0
+			},
+			"replace":
+			{
+				"height": 46.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"",
+						"config.codekit"
+					],
+					[
+						"t",
+						"Do’s and Don’ts When Buying a Used Car_UNTESTED copy.html"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 174.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 704.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"console",
+						"console.	console.time(name)"
+					],
+					[
+						"heig",
+						"height-20"
+					],
+					[
+						"stroke",
+						"strokeWeight"
+					],
+					[
+						"backgr",
+						"background	background"
+					],
+					[
+						"rg",
+						"rgba()"
+					],
+					[
+						"mar",
+						"margin-left"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"backg",
+						"background-color"
+					],
+					[
+						"he",
+						"header	Tag"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"marg",
+						"margin"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"padd",
+						"padding-top"
+					],
+					[
+						"margin",
+						"margin-top"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "",
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 181.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"zf ",
+						"Snippet: ZURB Foundation 5 Button Groups"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"browser",
+						"File: Open In Browser - Production Server"
+					],
+					[
+						"cdn",
+						"Snippet: bs3-cdn"
+					],
+					[
+						"cdn ",
+						"Snippet: bs3-cdn"
+					],
+					[
+						"boiler",
+						"Snippet: htmlboiler"
+					],
+					[
+						"pac",
+						"Package Control: List Packages"
+					],
+					[
+						"ht",
+						"Set Syntax: HTML"
+					],
+					[
+						"boil",
+						"Snippet: htmlboiler"
+					],
+					[
+						"syn",
+						"Set Syntax: HTML"
+					],
+					[
+						"synt",
+						"Set Syntax: HTML"
+					],
+					[
+						"package con",
+						"Package Control: Remove Package"
+					],
+					[
+						"boilerplate",
+						"Snippet: Responsive Boilerplate Page Template"
+					],
+					[
+						"boilerpa",
+						"Snippet: Responsive Boilerplate Col12"
+					],
+					[
+						"boilerp",
+						"Snippet: Responsive Boilerplate Container"
+					],
+					[
+						"boile",
+						"Snippet: htmlboiler"
+					],
+					[
+						"header",
+						"Snippet: bs3-page header"
+					],
+					[
+						"bootstrap head",
+						"Snippet: Bootstrap pager with aligned links"
+					],
+					[
+						"run sk",
+						"Build: Run sketch fullscreen"
+					],
+					[
+						"run",
+						"Build: Run sketch fullscreen"
+					],
+					[
+						"proces",
+						"Set Syntax: Processing"
+					],
+					[
+						"install pa",
+						"Package Control: Install Package"
+					],
+					[
+						"install ",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"cofee",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"insta",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"scss",
+						"Set Syntax: SCSS"
+					],
+					[
+						"menu",
+						"Permute Lines: Unique"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 541.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/justinzupnick/Library/Application Support/Sublime Text 3/Packages/User/Node.sublime-build",
+				"/Users/justinzupnick/Library/Application Support/Sublime Text 3/Packages/User/JavaScript.sublime-build",
+				"/Users/justinzupnick/Library/Application Support/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+				"/Users/justinzupnick/Documents/GitHub/jzupnick.github.io/styles.css",
+				"/Users/justinzupnick/Documents/GitHub/subway-songs/Regular-HTML-Template/index.html",
+				"/Users/justinzupnick/Documents/GitHub/subway-songs/index.html",
+				"/Users/justinzupnick/Downloads/pq.csv",
+				"/Users/justinzupnick/Google Drive/Projects/Startup Institute/duckett/c02/js/example.js",
+				"/Users/justinzupnick/Google Drive/Projects/Startup Institute/duckett/c02/example.html",
+				"/Users/justinzupnick/Documents/GitHub/busk/index.html",
+				"/Users/justinzupnick/Documents/GitHub/busk/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap.scss",
+				"/Users/justinzupnick/Documents/Busk.sublime-workspace",
+				"/Users/justinzupnick/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/justinzupnick/Documents/GitHub/music-player/about.liquid",
+				"/Users/justinzupnick/Sites/course-guide/index.html",
+				"/Users/justinzupnick/Sites/course-guide/Gemfile",
+				"/Users/justinzupnick/Sites/course-guide/public/js/jquery.easing.min.js",
+				"/Users/justinzupnick/Sites/course-guide/public/css/screen.css",
+				"/Users/justinzupnick/Sites/course-guide/public/fonts/glyphicons-halflings-regular.svg",
+				"/Users/justinzupnick/Downloads/ruby-guide/index.html",
+				"/Users/justinzupnick/Downloads/ruby-guide/css/screen.scss",
+				"/Users/justinzupnick/Downloads/ruby-guide/img/logos/thumbnail-tealeaf-academy.jpg",
+				"/Users/justinzupnick/Downloads/ruby-guide/.sass-cache/10305ebeffeade5f9846880f6b546d1a77c7ac02/screen.scssc",
+				"/Users/justinzupnick/Downloads/ruby-guide/img/logos/thumbnail-treehouse.png",
+				"/Users/justinzupnick/Documents/math_functions",
+				"/Users/justinzupnick/Documents/Processing/my_first_sketch/math_functions.pde",
+				"/Users/justinzupnick/Downloads/links",
+				"/Users/justinzupnick/Google Drive/Projects/Sites/ruby-guide/css/screen.scss",
+				"/Users/justinzupnick/Google Drive/Projects/Sites/ruby-guide/index.html",
+				"/Users/justinzupnick/Downloads/counter/Theme/assets/js/soon/custom.js",
+				"/Users/justinzupnick/Downloads/counter/Theme/config.codekit",
+				"/Users/justinzupnick/Downloads/counter/Theme/assets/css/custom.css",
+				"/Users/justinzupnick/Downloads/WufooThemeKit/css/custom.css",
+				"/Users/justinzupnick/Downloads/grayscale/index.html",
+				"/Users/justinzupnick/Documents/GitHub/jzupnick.github.io/index.html",
+				"/Users/justinzupnick/Documents/GitHub/jzupnick.github.io/CNAME",
+				"/Users/justinzupnick/Google Drive/Projects/Sites/ruby-guide/css/screen.css",
+				"/Users/justinzupnick/Sites/project/assets/css/libs/_forms.scss",
+				"/Users/justinzupnick/Downloads/Downloads/sassaparilla-master/assets/css/libs/_mixins.scss",
+				"/Users/justinzupnick/Sites/project/assets/css/libs/_mixins.scss",
+				"/Users/justinzupnick/Sites/mixture.json",
+				"/Users/justinzupnick/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/Users/justinzupnick/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+				"/Users/justinzupnick/Google Drive/Inbox/recsstableinemail/Do's and Don'ts When Buying a Used Car_TESTED.html",
+				"/Users/justinzupnick/Google Drive/Inbox/recsstableinemail/Do’s and Don’ts When Buying a Used Car_UNTESTED copy.html",
+				"/Users/justinzupnick/Google Drive/Inbox/feedly.opml",
+				"/Users/justinzupnick/Google Drive/Inbox/00dcb32654fb501e022d19e22763eee5/Blog [123071906].txt",
+				"/Users/justinzupnick/Google Drive/Inbox/00dcb32654fb501e022d19e22763eee5/Portfolio [123159466].txt",
+				"/Users/justinzupnick/Google Drive/Inbox/00dcb32654fb501e022d19e22763eee5/Phase II [123002964].txt",
+				"/Users/justinzupnick/Google Drive/Inbox/00dcb32654fb501e022d19e22763eee5/Job Applications [122114300].txt",
+				"/Users/justinzupnick/Google Drive/Inbox/00dcb32654fb501e022d19e22763eee5/Personal Misc. [123159476].txt",
+				"/Users/justinzupnick/Google Drive/Inbox/00dcb32654fb501e022d19e22763eee5/ .txt",
+				"/Users/justinzupnick/Google Drive/Inbox/00dcb32654fb501e022d19e22763eee5/Inbox [121682850].txt",
+				"/Users/justinzupnick/Google Drive/Inbox/00dcb32654fb501e022d19e22763eee5/Nava [123159456].txt",
+				"/Users/justinzupnick/Google Drive/Inbox/00dcb32654fb501e022d19e22763eee5/SkilledUp [121689450].txt",
+				"/Users/justinzupnick/Google Drive/Inbox/00dcb32654fb501e022d19e22763eee5/MegsRadio [123140971].txt",
+				"/Users/justinzupnick/Google Drive/Inbox/00dcb32654fb501e022d19e22763eee5/Get A Job [123140955].txt",
+				"/Users/justinzupnick/Google Drive/Projects/Sites/ruby-guide/css/scrolling-nav.css",
+				"/Users/justinzupnick/Google Drive/Projects/Sites/ruby-guide/js/scrolling-nav.js",
+				"/Users/justinzupnick/Google Drive/Projects/SkilledUp/learn-web-design-guide/index.html",
+				"/Users/justinzupnick/Google Drive/Projects/Sites/ruby-guide/form.html",
+				"/Users/justinzupnick/Downloads/email-subscription-popup/style.css",
+				"/Users/justinzupnick/Downloads/email-subscription-popup/form.html",
+				"/Users/justinzupnick/Google Drive/Projects/Sites/ruby-guide/js/form.js",
+				"/Users/justinzupnick/Downloads/email-subscription-popup/index.html",
+				"/Users/justinzupnick/Google Drive/Projects/SkilledUp/learn-web-design-guide/CSS/Styles.less",
+				"/Users/justinzupnick/Google Drive/Projects/SkilledUp/learn-web-design-guide/CSS/Layouts.less",
+				"/Users/justinzupnick/Google Drive/Projects/SkilledUp/learn-web-design-guide/CSS/Styles.css",
+				"/Users/justinzupnick/Downloads/Complete your payment.html",
+				"/Users/justinzupnick/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+				"/Users/justinzupnick/Google Drive/Projects/Sites/ruby-guide/img/screenshots/code-school-logo.svg",
+				"/Users/justinzupnick/Google Drive/Projects/Sites/scrolling-nav/css/scrolling-nav.css",
+				"/Users/justinzupnick/Google Drive/Projects/Sites/scrolling-nav/index.html",
+				"/Users/justinzupnick/Google Drive/Projects/Sites/scrolling-nav/css/screen.scss",
+				"/Users/justinzupnick/Google Drive/Projects/Sites/scrolling-nav/scss/screen.scss",
+				"/Users/justinzupnick/Google Drive/Projects/Sites/scrolling-nav/css/screen.css",
+				"/Users/justinzupnick/Google Drive/Projects/Sites/nava-new-york-7350073/layout/theme_backup_by_magiczoomplus_2014.04.17_18.17.26.liquid",
+				"/Users/justinzupnick/Google Drive/Projects/Sites/nava-new-york-7350073/templates/product_backup_by_magiczoomplus_2014.04.17_18.17.31.liquid",
+				"/Users/justinzupnick/Google Drive/Projects/Sites/nava-new-york-7350073/layout/theme_backup_by_magiczoomplus_2014.04.17_18.14.45.liquid",
+				"/Users/justinzupnick/Google Drive/Projects/Sites/learn-ruby/index.html",
+				"/Users/justinzupnick/Google Drive/Projects/Sites/learn-ruby/sass/_refills.scss",
+				"/Users/justinzupnick/Google Drive/Projects/Sites/learn-ruby/sass/screen.scss",
+				"/Users/justinzupnick/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/justinzupnick/Sites/nava-new-york-7350073/snippets/shappify-sales-clock.liquid",
+				"/Users/justinzupnick/Sites/nava-new-york-7350073/snippets/shappify-qb-min-price.liquid",
+				"/Users/justinzupnick/Sites/nava-new-york-7350073/snippets/shappify-sales-icon-collection.liquid",
+				"/Users/justinzupnick/Sites/nava-new-york-7350073/snippets/shappify-qb-no-select.liquid",
+				"/Users/justinzupnick/Sites/nava-new-york-7350073/snippets/product-detail.liquid",
+				"/Users/justinzupnick/Sites/nava-new-york-7350073/snippets/shappify-select.liquid",
+				"/Users/justinzupnick/Sites/nava-new-york-7350073/snippets/shappify-options.liquid",
+				"/Users/justinzupnick/Desktop/learn-web-design-guide/index.html",
+				"/Users/justinzupnick/Sites/learn-ruby/sass/_refills.scss",
+				"/Users/justinzupnick/Sites/learn-ruby/sass/screen.scss"
+			],
+			"find":
+			{
+				"height": 25.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"end",
+					"blog:",
+					"jquery.js",
+					"jquery",
+					"{%",
+					"include",
+					"complete your",
+					"rel=\"stylesheet",
+					"=\"",
+					"<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\">\n",
+					"class providers",
+					"dt {",
+					"dt",
+					"about-sec",
+					".row h1",
+					"font-size",
+					"about",
+					"one month",
+					".row",
+					"course",
+					"get enlight",
+					"h1",
+					"classes",
+					"id=tools",
+					"tools",
+					"stay up",
+					"list.",
+					"list.manage",
+					"mailchimp",
+					"tapas",
+					"general",
+					".org/",
+					".com/",
+					"/",
+					"https://",
+					"http://",
+					"input",
+					"monte",
+					"28",
+					"            <div class=\"col-lg-6 col-lg-offset-3 mt centered\">\n",
+					"h4",
+					"message",
+					"counter",
+					"join the local",
+					"slider",
+					"logo",
+					"container",
+					"css",
+					".org",
+					".co",
+					".com",
+					"/",
+					"		<div class=\"colspan2-1 colspan5-3\">I get wider</div>\n",
+					"section",
+					"background",
+					"setTimeout",
+					"myModal",
+					"  \n",
+					"http://gallery.mailchimp.com/bab957ac7f6fcf949273a0ab1/images/42cfbb73-607d-4432-aed0-fa1cde337276.jp",
+					"http://gallery.mailchimp.com/bab957ac7f6fcf949273a0ab1/images/a1adc2d9-37bc-4f52-abff-4e95efec71ee.jpg",
+					"<img alt=\"\" src=\"http://gallery.mailchimp.com/bab957ac7f6fcf949273a0ab1/images/a1adc2d9-37bc-4f52-abff-4e95efec71ee.jpg\"",
+					"style=\"-ms-interpolation-mode:bicubic;text-decoration:none;outline:none;border:0;vertical-align:bottom;display:inline !important;padding-bottom:0;max-width:800px;\"",
+					"class=\"mcnimagecont",
+					"margin",
+					"{\n",
+					"padding",
+					"outline",
+					"border",
+					"margin",
+					"border",
+					"width, padding",
+					"money",
+					"provider",
+					"quote",
+					"conention",
+					"quote",
+					"codeac",
+					"h3",
+					"thoughtbot",
+					"stay up",
+					"btn",
+					"creator",
+					"matz",
+					"quote",
+					"railscasts",
+					"iframe",
+					"iframe clas",
+					"iframe",
+					"lynda",
+					"career",
+					"form",
+					"btn btn-default",
+					"author",
+					"mymodal",
+					"php",
+					"<div class=\"col-lg-2\">\n                    <img class=\"provider-logo\" src=\"\"></div>",
+					"active",
+					"brand",
+					"metafields.shappify_csp",
+					"{% if item.metafields.shappify_csp[cust_tag] %}\n",
+					"variant.price",
+					".price",
+					"price",
+					"{{ product.price | money }}",
+					"{{ product.price | money }}\n",
+					"variant",
+					"for variant",
+					"quantity",
+					"quant",
+					"price",
+					"pricel",
+					"price",
+					"pricing-table",
+					"collection",
+					"collections",
+					"shappify",
+					"<div id=\"shappify-qty-cart-msg\"></div>\n",
+					"{% include 'shappify-qb-min-price' with product %}\n",
+					"- {{ product.price | money }}\n",
+					"input",
+					"shappify",
+					"shappify-qty-msg",
+					"product.variants.size\n",
+					"shappify_qb_options_count",
+					"shappify_qb_options_count\n",
+					"shappify_qb_options_count\nshappify_qb_options_count\n",
+					"shappify_qb_options_count\n",
+					"<!-- Bold Apps: Quantity Breaks -->"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					".org/\" target=\"_blank\">",
+					".com/\" target=\"_blank\">",
+					"/\" target=\"_blank\">",
+					"<a href=\"https://",
+					"<a href=\"http://",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"incomplete_sync": null,
+									"sublime_auto_complete": true,
+									"syntax": "Packages/SublimeLinter/fixed-syntaxes/HTML/HTML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 204.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 0.0
+			},
+			"position": "288 4 704 774 0 0 1280 778 ",
+			"project": "",
+			"replace":
+			{
+				"height": 46.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"",
+						"config.codekit"
+					],
+					[
+						"t",
+						"Do’s and Don’ts When Buying a Used Car_UNTESTED copy.html"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 174.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 149,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/Users/justinzupnick/Documents/blog.sublime-workspace",
+			"/Users/justinzupnick/Documents/Busk.sublime-workspace",
+			"/Users/justinzupnick/Google Drive/Projects/Sites/learn-ruby.sublime-workspace",
+			"/Users/justinzupnick/Google Drive/Inbox/untitled.sublime-workspace"
+		]
+	}
+}
